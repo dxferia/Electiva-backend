@@ -1,0 +1,51 @@
+[
+	{
+		"nombres": "wilmer arley",
+		"apellidos": "patiño perdomo",
+		"edad": 35,
+		"sexo": true,
+		"estatura": 1.72
+	},
+	{
+		"nombres": "Ana María",
+		"apellidos": "Cruz Pérez",
+		"edad": 28,
+		"sexo": false,
+		"estatura": 1.56
+	},
+	{
+		"id": 1,
+		"nombre": "algo1",
+		"apellido": "algoapellido",
+		"edad": 18,
+		"rol": "estudiante"
+	},
+	{
+		"id": 2,
+		"nombre": "algo2",
+		"apellido": "algoapellido",
+		"edad": 18,
+		"rol": "estudiante"
+	},
+	{
+		"id": 3,
+		"nombre": "algo3",
+		"apellido": "algoapellido",
+		"edad": 18,
+		"rol": "estudiante"
+	},
+	{
+		"id": 4,
+		"nombre": "algo4",
+		"apellido": "algoapellido",
+		"edad": 18,
+		"rol": "estudiante"
+	},
+	{
+		"id": 5,
+		"nombre": "algo5",
+		"apellido": "algoapellido",
+		"edad": 18,
+		"rol": "estudiante"
+	}
+]
